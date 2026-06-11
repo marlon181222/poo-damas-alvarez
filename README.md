@@ -5,13 +5,13 @@ Carrera: Ingenieria en Telecomunicaciones y Electronica.
 Universidad de Pinar del Rio "Hermanos Saiz Montes de Oca". Curso 2024-2025.
 
 ## Integrantes
-- [Nombre 1] (lider)
-- [Nombre 2]
-- [Nombre 3]
-- [Nombre 4]
-- [Nombre 5]
-- [Nombre 6]
-- [Nombre 7]
+- Marlon Alvarez Ferragut (lider)
+- Adriel Calzadilla Páez
+- Lorena Pino Harada
+- Maria Fernanda Pacheco González
+- Liz Marien Lazo Gutierrez
+- Kamila Díaz Ledesma
+- Manuel Alejandro Hernández Caballero
 
 ## Sobre el proyecto
 
